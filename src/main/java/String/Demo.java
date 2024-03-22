@@ -2,6 +2,7 @@ package String;
 
 public class Demo {
     public static void main(String[] args) {
+
         Point point = new Point(1, 2);
         String str = point.toString();
         System.out.println(str);
