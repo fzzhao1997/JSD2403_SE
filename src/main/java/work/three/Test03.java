@@ -2,6 +2,7 @@ package work.three;
 
 
 import java.util.Collection;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.Random;
 
@@ -21,7 +22,6 @@ public class Test03 {
             }
         }
         System.out.println(c);
-        StringBuilder stringBuilder = new StringBuilder();
     }
 }
 
