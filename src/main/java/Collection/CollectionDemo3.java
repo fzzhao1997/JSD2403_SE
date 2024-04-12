@@ -7,9 +7,9 @@ import java.util.HashSet;
 public class CollectionDemo3 {
     public static void main(String[] args) {
         Collection c1 = new HashSet();
-        c1.add("java");
-        c1.add("c++");
-        c1.add(".net");
+            c1.add("java");
+            c1.add("c++");
+            c1.add(".net");
         System.out.println("c1:"+c1);
 //        Collection c2 = new ArrayList();
         Collection c2 = new ArrayList();
